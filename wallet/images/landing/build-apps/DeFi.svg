@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="88px" viewBox="0 0 92 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons / Applications / DeFi</title>
+    <defs>
+        <rect id="path-1" x="40.204759" y="38.2579221" width="32.6530612" height="16.2337662"></rect>
+        <filter x="-111.8%" y="-224.8%" width="323.6%" height="549.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.32 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M70.4305223,48.4508961 L70.4305223,44.2987013 C68.6965194,44.298583 67.290863,42.9009104 67.2907476,41.1767597 L45.7718317,41.1767597 C45.7717127,42.9009114 44.3660544,44.298583 42.6320505,44.2987013 L42.6320505,48.4508766 C44.3660544,48.450995 45.7717127,49.8486665 45.7718317,51.5728182 L67.2907476,51.5728182 C67.2908738,49.8486751 68.696527,48.4510144 70.4305223,48.4508961 L70.4305223,48.4508961 Z" id="path-3"></path>
+        <filter x="-131.3%" y="-351.1%" width="362.6%" height="802.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.32 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="36.56871" y="15.143987" width="19.6804898" height="11.7595779" rx="1.14293"></rect>
+        <filter x="-185.5%" y="-310.4%" width="470.9%" height="720.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.32 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M47.0557305,19.3869545 L38.69383,19.3869545" id="path-7"></path>
+        <filter x="-430.5%" y="-5544.0%" width="861.0%" height="11088.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.32 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landingpage" transform="translate(-657.000000, -3079.000000)">
+            <g id="Group-8" transform="translate(76.000000, 3060.000000)">
+                <g id="Icons-/-Categories-/-DeFi" transform="translate(576.000000, 28.000000)">
+                    <path d="M68.8580227,10 C66.216636,10 63.8353151,11.5820228 62.8244667,14.0084667 C61.8136182,16.4349105 62.3723115,19.2278916 64.2400287,21.085047 C66.107746,22.9422023 68.916672,23.4977967 71.3570084,22.4927572 C73.7973449,21.4877177 75.3885435,19.1199697 75.3885435,16.4935909 C75.3885435,12.9073541 72.4647523,10 68.8580227,10 L68.8580227,10 Z" id="Path" stroke-opacity="0.16" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <path d="M68.8580227,20.5716429 C67.1991711,20.5716429 65.7036401,19.5781175 65.0687995,18.0542568 C64.4339588,16.5303962 64.7848308,14.7763384 65.9578029,13.6100049 C67.1307751,12.4436713 68.8948482,12.0947539 70.4274308,12.7259535 C71.9600134,13.3571531 72.9592864,14.8441646 72.9592864,16.4935909 C72.9592864,18.7457954 71.1230969,20.5716429 68.8580227,20.5716429 Z" id="Path" stroke-opacity="0.32" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <ellipse id="Oval" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round" cx="68.8579835" cy="16.4935844" rx="1.81405388" ry="1.80374675"></ellipse>
+                    <path d="M13.9163345,63.7786688 L13.9163345,61.6977662 L9.52776311,61.6977662 L9.52776311,63.7786688 L9.52776311,63.7786688 C9.52776311,64.5581574 9.94599156,65.2784346 10.6249059,65.6681789 C11.3038203,66.0579232 12.1402773,66.0579232 12.8191917,65.6681789 C13.4981061,65.2784346 13.9163345,64.5581574 13.9163345,63.7786688 L13.9163345,63.7786688 Z" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <path d="M16.110986,59.148526 L16.1101892,59.148526 C14.9011783,59.1487533 13.9202019,60.1214611 13.9166284,61.3235974 L13.9159754,61.3235974 L13.9159754,61.328987 L13.9158186,61.3305714 L13.9159754,61.3305714 L13.9159754,63.7786234 C13.9160187,64.983564 12.9337703,65.9604465 11.7219443,65.9606688 L18.3045403,65.9606688 L18.3045403,59.148526 L16.110986,59.148526 Z" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <path d="M22.6929615,65.6728182 L22.6931182,65.6712338 L22.6929615,65.6712338 L22.6929615,59.1485584 L18.3045664,59.1485584 L18.3045664,65.6782078 L18.3052194,65.6782078 C18.3052194,66.8828341 19.2873422,67.8593766 20.4988521,67.8593766 C21.710362,67.8593766 22.6924847,66.8828341 22.6924847,65.6782078 L22.692968,65.6782078 L22.6929615,65.6728182 Z" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <path d="M22.6929615,56.5993506 L22.6929615,65.6712338 C22.6930012,66.8761093 21.7108412,67.8529563 20.4990807,67.8532468 L29.9410398,67.8532468 C31.1528669,67.8530244 32.1350774,66.876143 32.1350774,65.6712013 L32.1350774,56.5993506 L22.6929615,56.5993506 Z" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <line x1="23.9721713" y1="61.5446948" x2="27.5750382" y2="61.5446948" id="Path" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></line>
+                    <line x1="28.6074562" y1="63.6098896" x2="31.1346594" y2="63.6098896" id="Path" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></line>
+                    <line x1="23.9721713" y1="58.7575584" x2="28.8210072" y2="58.7575584" id="Path" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></line>
+                    <path d="M24.0019117,10.9766234 C22.2592453,7.9487311 19.0195083,6.08037237 15.5109337,6.07987013 L15.5109337,15.8200195 L24.0019117,10.9766234 Z" id="Path" stroke-opacity="0.08" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <path d="M15.5109337,6.07987013 C10.7813018,6.08188714 6.72899984,9.44478289 5.88115413,14.0713636 L15.5109337,15.8200195 L15.5109337,6.07987013 Z" id="Path" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <path d="M24.0019117,10.9766234 L15.5109337,15.8200195 L25.1371998,17.5915584 C25.5703563,15.32257 25.1673452,12.9743627 24.0019117,10.9766234 Z" id="Path" stroke-opacity="0.16" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <path d="M11.1357043,24.4538961 L15.5109337,15.8200195 L5.88115413,14.0713636 C5.08083536,18.3214888 7.21399459,22.5836289 11.1064341,24.5116883 L15.5109337,15.8200195 L11.1357043,24.4538961 Z" id="Path" stroke-opacity="0.32" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <path d="M15.5109337,15.8200195 L11.1064341,24.5116883 C13.8570848,25.8970335 17.1038986,25.9105675 19.8661341,24.5482022 C22.6283696,23.1858369 24.5821087,20.6073323 25.1371998,17.5915584 L15.5109337,15.8200195 Z" id="Path" stroke-opacity="0.16" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <g id="Rectangle" stroke-linecap="round" stroke-linejoin="round">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Path" stroke-linecap="round" stroke-linejoin="round">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-3"></use>
+                    </g>
+                    <ellipse id="Oval" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round" cx="56.5312896" cy="46.3748052" rx="3.13971592" ry="3.12187662"></ellipse>
+                    <polygon id="Path" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" points="16.0137909 32.0538961 12.7484847 35.3006494 19.279097 35.3006494"></polygon>
+                    <polygon id="Path" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" points="19.279097 35.3006494 22.5444031 32.0538961 16.0137909 32.0538961"></polygon>
+                    <polygon id="Path" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" points="22.5444031 32.0538961 19.279097 35.3006494 25.8097092 35.3006494"></polygon>
+                    <polygon id="Path" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" points="25.8097092 35.3006494 29.0750154 32.0538961 22.5444031 32.0538961"></polygon>
+                    <polygon id="Path" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" points="29.0750154 32.0538961 25.8097092 35.3006494 32.3403215 35.3006494"></polygon>
+                    <polygon id="Path" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" points="22.5444031 48.2876623 12.7484847 35.3006494 19.279097 35.3006494"></polygon>
+                    <polygon id="Path" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" points="22.5444031 48.2876623 19.279097 35.3006494 25.8097092 35.3006494"></polygon>
+                    <polygon id="Path" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" points="22.5444031 48.2876623 25.8097092 35.3006494 32.3403215 35.3006494"></polygon>
+                    <rect id="Rectangle" fill="#6F4CFF" fill-rule="evenodd" x="36.56871" y="21.4831364" width="19.6804898" height="2.84801948"></rect>
+                    <g id="Rectangle" stroke-linecap="round" stroke-linejoin="round">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="Path" stroke-linecap="round" stroke-linejoin="round">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-7"></use>
+                    </g>
+                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round" cx="50.4088407" cy="68.417526" rx="8.16326531" ry="8.11688312"></ellipse>
+                    <path d="M52.0414937,65.1707792 C52.9431831,65.1707792 53.6741468,65.8975897 53.6741468,66.7941558 C53.6741468,67.690722 52.9431831,68.4175325 52.0414937,68.4175325" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <path d="M52.0414937,68.4175325 C52.9431831,68.4175325 53.6741468,69.1443429 53.6741468,70.0409091 C53.6741468,70.9374752 52.9431831,71.6642857 52.0414937,71.6642857" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></path>
+                    <line x1="47.1435345" y1="65.1707727" x2="52.0414937" y2="65.1707727" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></line>
+                    <line x1="48.7761876" y1="68.417526" x2="52.0414937" y2="68.417526" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></line>
+                    <line x1="47.1435345" y1="71.6642792" x2="52.0414937" y2="71.6642792" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></line>
+                    <line x1="48.7761876" y1="63.5473961" x2="48.7761876" y2="73.2191429" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></line>
+                    <line x1="52.0414937" y1="63.5473961" x2="52.0414937" y2="65.1707727" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></line>
+                    <line x1="52.0414937" y1="71.6642792" x2="52.0414937" y2="73.2876558" id="Path" stroke="#6F4CFF" stroke-width="1" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
