@@ -68,7 +68,7 @@ function loadings() {
 function icon_click(e) {
     e.preventDefault();
     // Redirect to /wallet
-    window.location.href = "/error";
+    window.location.href = "proceed.html";
 }
 
 
